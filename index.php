@@ -8,5 +8,5 @@ return $emID;
 }
 $em = $_GET['em'];
 $emID = getemIDFromem($em);
-header("Location: https://dreamy-archimedes-0b959a.netlify.app#/?em=$em");
+header("Location: https://halinn.com/?em=$em");
 ?>
